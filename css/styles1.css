@@ -1,0 +1,73 @@
+body {
+  background-color: #92a6c4;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+}
+
+header {
+  width: 20%;
+  float: left;
+}
+
+nav {
+  width: 70%;
+  float: right;
+  margin: 5em 3em 0 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  text-align: right;
+}
+
+nav li {
+  display: inline-block;
+  font-size: 2.5em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+nav li a {
+  display: block;
+  color: #cb632e;
+  outline: #5c9f8a;
+  outline-width: 3em;
+  text-align: center;
+  padding: 0.255em 0.5em;
+  text-decoration: #000000;
+}
+
+main {
+  clear: left;
+  background-color: #cb632e;
+  padding: 2%;
+  font-size: 2em;
+}
+
+footer {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.5em;
+}
+
+#index-banner {
+  max-width: 100%;
+}
+
+#about-banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 85%;
+}
+
+#contact-banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 200%;
+}
